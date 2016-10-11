@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "GameScene.update(Double) -&gt; ():GameScene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "lastTouchLocation">
+            </PersistentString>
+            <PersistentString
+               value = "zombie.position">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameScene.moveSprite(sprite : SKSpriteNode, velocity : CGPoint) -&gt; ():GameScene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "sprite.position">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
